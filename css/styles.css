@@ -1,0 +1,36 @@
+.centered {
+    text-align: center;
+}
+
+.description {
+    border: 0cap;
+    border-color: black;
+    border-bottom: 2px;
+    border-top: 2px;
+    border-left: 2px;
+    border-right: 2px;
+    border-style: solid;
+}
+
+h1 , h2, h3, h4 {
+    background-color: brown;
+    color: wheat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.ingredients {
+    color:whitesmoke;
+}
+
+body {
+    font-family: monospace, sans-serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-height:fit-content;
+    max-width: 400px;
+  }
