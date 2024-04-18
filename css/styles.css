@@ -1,5 +1,8 @@
 .centered {
     text-align: center;
+    padding: 8px;
+    margin: 16px;
+    border: 4px black dotted;
 }
 
 .description {
@@ -34,3 +37,10 @@ body {
     max-height:fit-content;
     max-width: 400px;
   }
+
+ul {
+    width: 300px;
+    margin: 8px auto;
+    padding: 8px;
+    border: 4px black dotted;
+}
