@@ -1,6 +1,7 @@
 body {
     width: 400px;
-    margin: 0 auto; 
+    margin: 0 auto;
+    overflow:scroll;
 }
 
 .main-body {
