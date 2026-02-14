@@ -1,0 +1,21 @@
+body {
+    width: 400px;
+    margin: 0 auto; 
+}
+
+.main-body {
+    background-color: gainsboro;
+    padding: 32px;
+}
+
+.highlight {
+    background-color: white;
+    padding: 4px;
+    text-align: center;
+    border: 2px solid gray;
+}
+
+.foodphoto {
+    width: 336px;
+    height: auto;
+}
